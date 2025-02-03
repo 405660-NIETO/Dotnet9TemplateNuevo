@@ -318,3 +318,4 @@ C:\Users\santi\Documents\Repositorios\Dotnet9TemplateNuevo\Dotnet9TemplateNuevo\
 C:\Users\santi\Documents\Repositorios\Dotnet9TemplateNuevo\Dotnet9TemplateNuevo\obj\Debug\net9.0\Programacion3Template.pdb
 C:\Users\santi\Documents\Repositorios\Dotnet9TemplateNuevo\Dotnet9TemplateNuevo\obj\Debug\net9.0\Programacion3Template.genruntimeconfig.cache
 C:\Users\santi\Documents\Repositorios\Dotnet9TemplateNuevo\Dotnet9TemplateNuevo\obj\Debug\net9.0\ref\Programacion3Template.dll
+C:\Users\santi\Documents\Repositorios\Dotnet9TemplateNuevo\Dotnet9TemplateNuevo\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
