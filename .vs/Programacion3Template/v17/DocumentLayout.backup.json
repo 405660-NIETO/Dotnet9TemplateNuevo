@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\dtos\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:dtos\\requestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -70,24 +78,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IUsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\IUsuarioService.cs",
-              "RelativeDocumentMoniker": "Interfaces\\IUsuarioService.cs",
-              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\IUsuarioService.cs",
-              "RelativeToolTip": "Interfaces\\IUsuarioService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "RequestDto.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Dtos\\RequestDto.cs",
+              "RelativeDocumentMoniker": "Dtos\\RequestDto.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Dtos\\RequestDto.cs",
+              "RelativeToolTip": "Dtos\\RequestDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T02:41:14.28Z",
+              "WhenOpened": "2025-02-03T03:37:56.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-03T03:35:52.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:25:33.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "Repositories\\TokenRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:59:46.316Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:37:41.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:35:36.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
@@ -101,45 +174,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "UsuarioRepository.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\UsuarioRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
-              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\UsuarioRepository.cs",
-              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T02:25:33.759Z",
+              "WhenOpened": "2025-02-03T02:41:14.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TokenRepository.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\TokenRepository.cs",
-              "RelativeDocumentMoniker": "Repositories\\TokenRepository.cs",
-              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\TokenRepository.cs",
-              "RelativeToolTip": "Repositories\\TokenRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T02:59:46.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsuarioService.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Services\\UsuarioService.cs",
-              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
-              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Services\\UsuarioService.cs",
-              "RelativeToolTip": "Services\\UsuarioService.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T02:37:41.155Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -152,20 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Controllers\\UsuarioController.cs",
-              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Controllers\\UsuarioController.cs",
-              "RelativeToolTip": "Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T02:35:36.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Models\\Usuario.cs",
@@ -178,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Token.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Models\\Token.cs",
               "RelativeDocumentMoniker": "Models\\Token.cs",
@@ -191,7 +225,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -204,7 +238,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "ITokenRepository.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\ITokenRepository.cs",
               "RelativeDocumentMoniker": "Interfaces\\ITokenRepository.cs",
@@ -217,7 +251,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Response\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
@@ -230,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "Programacion3Template.csproj",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Programacion3Template.csproj",
               "RelativeDocumentMoniker": "Programacion3Template.csproj",
@@ -242,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -255,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
