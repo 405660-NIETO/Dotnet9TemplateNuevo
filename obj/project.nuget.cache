@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vFo+RwRh9Tk=",
+  "dgSpecHash": "uZz4tJVJcU4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\santi\\Documents\\Repositorios\\Programacion3Template\\Programacion3Template.csproj",
+  "projectFilePath": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Programacion3Template.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\santi\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\santi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
