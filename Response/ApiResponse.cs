@@ -4,7 +4,7 @@ namespace Programacion3Template.Response
 {
     public class ApiResponse<T>
     {
-        public T Data { get; set; }
+        public T? Data { get; set; }
         public bool Success { get; set; }
         public string ErrorMessage { get; set; }
         public HttpStatusCode StatusCode { get; set; }
@@ -13,7 +13,7 @@ namespace Programacion3Template.Response
         {
             Success = true;
             StatusCode = HttpStatusCode.OK;
-            ErrorMessage = "";
+            ErrorMessage = string.Empty;
         }
 
         public void SetError(string errorMessage, HttpStatusCode statusCode)

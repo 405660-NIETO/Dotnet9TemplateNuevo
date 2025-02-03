@@ -1,6 +1,9 @@
 using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
 using Programacion3Template.Data;
+using Programacion3Template.Interfaces;
+using Programacion3Template.Repositories;
+using Programacion3Template.Services;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
@@ -9,6 +12,11 @@ builder.Services.AddControllers();
 
 builder.Services.AddDbContext<AppDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+// Agregar siempre los scopeds despues del context.
+builder.Services.AddScoped<IUsuarioRepository, UsuarioRepository>();
+builder.Services.AddScoped<ITokenRepository, TokenRepository>();
+builder.Services.AddScoped<IUsuarioService, UsuarioService>();
 
 // Configuración de Swagger
 builder.Services.AddSwaggerGen(c =>

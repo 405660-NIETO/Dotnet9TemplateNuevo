@@ -3,36 +3,64 @@
   "WorkspaceRootPath": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\programacion3template.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:programacion3template.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:interfaces\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:interfaces\\iusuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:repositories\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:repositories\\tokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:models\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\interfaces\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:interfaces\\itokenrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:response\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|c:\\users\\santi\\documents\\repositorios\\dotnet9templatenuevo\\dotnet9templatenuevo\\programacion3template.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0648715C-759F-4A2A-AD0B-4A45346F57A8}|Programacion3Template.csproj|solutionrelative:programacion3template.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,37 +70,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ApiResponse.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Response\\ApiResponse.cs",
-              "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
-              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Response\\ApiResponse.cs",
-              "RelativeToolTip": "Response\\ApiResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioService.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\IUsuarioService.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T00:18:31.117Z",
+              "WhenOpened": "2025-02-03T02:41:14.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBMAAAA1AAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "IUsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IUsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\IUsuarioRepository.cs",
+              "RelativeToolTip": "Interfaces\\IUsuarioRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T00:13:39.963Z",
+              "WhenOpened": "2025-02-03T02:25:06.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\UsuarioRepository.cs",
+              "RelativeToolTip": "Repositories\\UsuarioRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:25:33.759Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "TokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\TokenRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\TokenRepository.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Repositories\\TokenRepository.cs",
+              "RelativeToolTip": "Repositories\\TokenRepository.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:59:46.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:37:41.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:27:19.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:35:36.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T23:55:23.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Token.cs",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Models\\Token.cs",
               "RelativeDocumentMoniker": "Models\\Token.cs",
@@ -85,33 +191,58 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Models\\Usuario.cs",
-              "RelativeDocumentMoniker": "Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Models\\Usuario.cs",
-              "RelativeToolTip": "Models\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAbAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T23:55:23.358Z",
+              "WhenOpened": "2025-02-03T00:13:39.963Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Programacion3Template",
+              "DocumentIndex": 10,
+              "Title": "ITokenRepository.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\ITokenRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ITokenRepository.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Interfaces\\ITokenRepository.cs",
+              "RelativeToolTip": "Interfaces\\ITokenRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T02:55:04.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Response\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Response\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Response\\ApiResponse.cs",
+              "RelativeToolTip": "Response\\ApiResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T00:18:31.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Programacion3Template.csproj",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Programacion3Template.csproj",
               "RelativeDocumentMoniker": "Programacion3Template.csproj",
               "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Programacion3Template.csproj",
               "RelativeToolTip": "Programacion3Template.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-02T23:54:37.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-02T23:54:37.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\appsettings.Development.json",
               "RelativeDocumentMoniker": "appsettings.Development.json",
@@ -124,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -133,19 +264,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-02-02T23:51:59.97Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\santi\\Documents\\Repositorios\\Dotnet9TemplateNuevo\\Dotnet9TemplateNuevo\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-02T19:27:19.839Z",
               "EditorCaption": ""
             }
           ]
