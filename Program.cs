@@ -1,10 +1,14 @@
+using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
-
+using Programacion3Template.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
 builder.Services.AddControllers();
+
+builder.Services.AddDbContext<AppDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
 // Configuración de Swagger
 builder.Services.AddSwaggerGen(c =>
